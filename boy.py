@@ -1,3 +1,4 @@
+#2022182035 임채은
 # 이것은 각 상태들을 객체로 구현한 것임.
 from pico2d import load_image, SDL_KEYDOWN, SDL_KEYUP, SDLK_SPACE, SDLK_RIGHT, SDLK_LEFT, SDLK_a, get_time
 import math
